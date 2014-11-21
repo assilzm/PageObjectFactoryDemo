@@ -1,7 +1,7 @@
 package pages
 
 /**
- * 抽象页面,所有页面的基础类
+ * basic page
  * @author: Assilzm
  * create: 17:28.
  * description:
